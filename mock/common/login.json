@@ -1,0 +1,10 @@
+{
+	"code": 200,
+	"msg": "登录成功",
+	"data": {
+		"id": 4,
+		"account": "admin",
+		"head_img": "https://img1.baidu.com/it/u=873106765,2587410047&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1661965200&t=29446e8ba831b26ce85b8149dd55b763"
+	},
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NCwicm9sZV9pZCI6MSwiZXhwIjoxNjYxODcwNDIzfQ.r-CEJVpmwmiriHmXSH45OaJCx2SG1Eb7LwRmRBWRwyk"
+}
